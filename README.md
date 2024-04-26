@@ -7,10 +7,8 @@
 <h4>
 -- Faço Engenharia de Software pela UniCesumar e frequento o 5º período do curso! 
 
-  
 -- No momento atual(05/2024) já tenho dois certificados de analista de dados, um pela SoulCode e outro pela ADA Tech. 
 
 -- Já realizo alguns projetos como analista principalmente auxiliando na vizualização e extração de dados para TCC e pós graduações.
-
 </h4>
 
